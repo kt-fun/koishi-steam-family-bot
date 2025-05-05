@@ -1,5 +1,12 @@
 # steam-family-bot-discord
 
+## 0.0.8-dev.16
+
+### Patch Changes
+
+- Updated dependencies
+  - steam-family-bot-core@0.0.8-dev.16
+
 ## 0.0.8-dev.15
 
 ### Patch Changes
